@@ -81,18 +81,11 @@ Compatível com **React, Vue, Angular, Svelte** (usa setter nativo + `InputEvent
 
 <div align="center">
 
-### Popup
-<img src="assets/screenshot-popup.png" alt="Popup do AutoTyper" width="320">
+### Campo de digitação da extensão
 
-### Card flutuante durante a digitação
-<img src="assets/screenshot-typing.png" alt="Card de digitação" width="320">
-
-### Painel in-page
-<img src="assets/screenshot-panel.png" alt="Painel de digitação" width="500">
+<img src="https://github.com/lleonardo553/digitar-automaticamente/blob/main/Screenshots%20.png" alt="Campo de digitação da extensão AutoTyper" width="600">
 
 </div>
-
-> 📸 *Substitua as imagens acima pelas capturas reais da sua extensão na pasta `assets/`.*
 
 ---
 
@@ -102,5 +95,5 @@ Compatível com **React, Vue, Angular, Svelte** (usa setter nativo + `InputEvent
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/autotyper.git
-cd autotyper
+git clone https://github.com/lleonardo553/digitar-automaticamente.git
+cd digitar-automaticamente
